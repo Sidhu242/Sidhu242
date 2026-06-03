@@ -41,10 +41,8 @@
 LinkedIn: Add later  
 Portfolio: Add later
 
----
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidhu242&show_icons=true)
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidhu242&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhu242&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhu242&layout=compact&theme=github_dark)

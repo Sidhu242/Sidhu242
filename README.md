@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 
-🔢 [GPA Calculator Website](gpa-calculator-web-a-080d.bolt.host/)
+🔢 [GPA Calculator Website](https://gpa-calculator-web-a-080d.bolt.host)
 
 🩸 [Blood Cancer Detection](https://github.com/Sidhu242/blood-cancer-detection)
 

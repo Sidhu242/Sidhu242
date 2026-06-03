@@ -40,3 +40,11 @@
 
 LinkedIn: Add later  
 Portfolio: Add later
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidhu242&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhu242&layout=compact)

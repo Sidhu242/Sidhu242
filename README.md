@@ -18,7 +18,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,c,dart,discord,firebase,flask,flutter,github,gmail,html,instagram,js,java,linkedin,lua,mysql,nodejs,npm,py,pytorch,react,robloxstudio,sqlite,tensorflow,vercel,vscode,windows,)](https://skillicons.dev)
 ---
 
 ## 📜 Certifications

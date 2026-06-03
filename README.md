@@ -7,12 +7,17 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- GPA Calculator Website
-- Blood Cancer Detection
-- portfolio
-- Smart Exam System
+🔢 [GPA Calculator Website](https://github.com/Sidhu242)
+
+🩸 [Blood Cancer Detection](https://github.com/Sidhu242/blood-cancer-detection)
+
+🛡️ [Exam Guard](https://github.com/Sidhu242/exam-guard)
+
+💼 [Portfolio](https://github.com/Sidhu242/simple-portfolio-page)
+
+🧠 [Smart Exam System](https://github.com/Sidhu242/smart-exam-version-1)
 
 ---
 

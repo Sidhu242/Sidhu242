@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Sidharth 👋
 
-<!--
-**Sidhu242/Sidhu242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+📊 Aspiring Data Analyst  
+💻 Learning Python, SQL, Power BI, Tableau & Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- GPA Calculator Website
+- Blood Cancer Detection
+- portfolio
+- Smart Exam System
+
+---
+
+## 🛠 Skills
+
+- SQL
+- Python
+- Power BI
+- Tableau
+- Excel
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📜 Certifications
+
+- SQL – University of Colorado Boulder
+- Data Analytics
+- Big Data Foundations
+
+---
+
+## 📫 Connect
+
+LinkedIn: Add later  
+Portfolio: Add later

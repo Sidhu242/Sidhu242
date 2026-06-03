@@ -18,15 +18,7 @@
 
 ## 🛠 Skills
 
-- SQL
-- Python
-- Power BI
-- Tableau
-- Excel
-- HTML
-- CSS
-- JavaScript
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ---
 
 ## 📜 Certifications

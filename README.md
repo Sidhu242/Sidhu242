@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Sidharth%20P%20Siby&fontAlign=49&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20|%20SQL%20|%20Power%20BI%20|%20Tableau&descAlign=47&descAlignY=58
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Sidharth%20Siby&fontAlign=49&fontAlignY=40&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Tableau&descAlign=47&descAlignY=58)
 ## Hi, I'm Sidharth 👋
 
 🎓 BCA Student  

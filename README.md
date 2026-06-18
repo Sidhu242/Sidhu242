@@ -4,6 +4,8 @@
 🎓 BCA Student  
 📊 Aspiring Data Analyst  
 💻 Learning Python, SQL, Power BI, Tableau & Python  
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidharth_P_Siby-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sidharth-p-siby-750756286)
 
 

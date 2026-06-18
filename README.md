@@ -5,7 +5,12 @@
 📊 Aspiring Data Analyst  
 💻 Learning Python, SQL, Power BI, Tableau & Python  
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sidharth-p-siby-750756286" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sidharth-p-siby-750756286?trk=profile-badge">Sidharth P Siby</a></div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sidharth_P_Siby-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sidharth-p-siby-750756286)
+
+</div>
+
               
 
 ---
